@@ -1,0 +1,78 @@
+{
+  "nav": {
+    "home": "Home",
+    "articles": "Articles",
+    "qa": "Q&A",
+    "login": "Login",
+    "register": "Register",
+    "logout": "Logout",
+    "myAccount": "My Account"
+  },
+  "home": {
+    "title": "Pediatric Kidney Disease Community",
+    "subtitle": "Professional knowledge platform for childhood kidney diseases",
+    "featuredArticles": "Featured Articles",
+    "latestQA": "Latest Q&A",
+    "categories": "Disease Categories",
+    "about": "About Us",
+    "aboutText": "We are dedicated to providing professional and accessible knowledge about pediatric kidney diseases, helping families understand and manage childhood kidney conditions.",
+    "readMore": "Read More",
+    "viewAll": "View All"
+  },
+  "articles": {
+    "title": "Knowledge Base",
+    "search": "Search articles...",
+    "categories": {
+      "all": "All",
+      "nephrotic-syndrome": "Nephrotic Syndrome",
+      "iga-nephropathy": "IgA Nephropathy",
+      "purpura-nephritis": "Purpura Nephritis",
+      "lupus-nephritis": "Lupus Nephritis",
+      "uti": "Urinary Tract Infection",
+      "daily-care": "Daily Care"
+    },
+    "noResults": "No articles found"
+  },
+  "qa": {
+    "title": "Q&A Community",
+    "askQuestion": "Ask a Question",
+    "questionTitle": "Question Title",
+    "questionContent": "Question Description",
+    "submit": "Submit",
+    "answers": "answers",
+    "writeAnswer": "Write an Answer",
+    "answerPlaceholder": "Share your experience and advice...",
+    "submitAnswer": "Submit Answer",
+    "loginToAsk": "Please login to ask",
+    "loginToAnswer": "Please login to answer"
+  },
+  "auth": {
+    "loginTitle": "Login",
+    "registerTitle": "Register",
+    "email": "Email",
+    "password": "Password",
+    "name": "Name",
+    "confirmPassword": "Confirm Password",
+    "loginButton": "Login",
+    "registerButton": "Register",
+    "noAccount": "Don't have an account?",
+    "hasAccount": "Already have an account?",
+    "goRegister": "Register",
+    "goLogin": "Login",
+    "loginError": "Invalid email or password",
+    "registerError": "Registration failed, please try again",
+    "passwordMismatch": "Passwords do not match"
+  },
+  "comment": {
+    "title": "Comments",
+    "placeholder": "Write a comment...",
+    "submit": "Post Comment",
+    "loginToComment": "Please login to comment",
+    "noComments": "No comments yet"
+  },
+  "common": {
+    "loading": "Loading...",
+    "error": "Something went wrong",
+    "back": "Back"
+  }
+}
